@@ -1,0 +1,54 @@
+.Frch_butn
+{
+    
+      width: 28%;
+}
+
+.login-v2
+{
+    
+   margin-top: 0;
+   top: 178px;
+}
+
+.page-header {
+    
+ color: white;
+ font-family: sans serif;
+ text-transform: uppercase;
+ background-color: black;
+height: 46px;
+ }
+ 
+ .Frnch_clr {
+    
+  color: rgb(244, 164, 96);
+}
+.Franch_log
+{
+    
+    width:6%;
+
+}
+.Franch_Lg
+{
+    font-size: 18px;
+    color: white;
+    font-weight: 100;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.media-object {
+    height: 128px;
+}
+
+.modal-footerz {
+    border-top-color: #e2e7eb;
+    padding: 14px 95px 13px;
+}
+.modal-footerz {
+    border-top: 1px solid #e5e5e5;
+    padding: 15px;
+    text-align: start;
+}
