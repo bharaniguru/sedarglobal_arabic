@@ -1,0 +1,2 @@
+# sedarglobal_arabic
+ws
